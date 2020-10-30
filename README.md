@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: fruganyumisa@gmail.com
 - 😄 Pronouns: Mr/He/
 - ⚡ Fun fact: I love collaborations and getting challenged.
+<!--
 
 <table>
   <tbody>
@@ -108,7 +109,9 @@ Here are some ideas to get you started:
       </td>
     </tr>
   </tbody>
-</table
+</table>
+
+-->
 
 ![Frances's github stats](https://github-readme-stats.vercel.app/api?username=RugaCoder&show_icons=true)
 
