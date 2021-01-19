@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with UI and UX design hacks
 - 💬 Ask me about REST APIs
 - 📫 How to reach me: fruganyumisa@gmail.com
-- 😄 Pronouns: Mr/He/
+- 😄 Pronouns: Eng/Mr/He/
 - ⚡ Fun fact: I love collaborations and getting challenged.
 
 
