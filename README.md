@@ -38,17 +38,17 @@ I'm Frances Ruganyumisa (he/him) — a networking and security engineer focused 
 
 ## Selected projects
 
-Below are example project templates and the kinds of repositories I build or contribute to. Replace the placeholder links with your actual repo links and pin the ones you want highlighted on your profile.
+Below are example project templates and the kinds of repositories I build or contribute to. 
 
-- Network Automation Framework — a collection of playbooks and scripts to provision, validate and test network devices at scale. (e.g. `network-automation`)
+- Network Automation Framework — a collection of playbooks and scripts to provision, validate, and test network devices at scale. ( `network-automation`)
 
-- Security Automation Playbooks — automated detection -> triage -> response workflows that integrate SIEM/EDR alerts with orchestration tooling. (e.g. `security-playbooks`)
+- Security Automation Playbooks — automated detection -> triage -> response workflows that integrate SIEM/EDR alerts with orchestration tooling. ( `security-playbooks`)
 
-- Secure Microservices Reference — sample microservices demonstrating secure defaults (authentication, mTLS, rate limiting, logging). (e.g. `secure-microservices-sample`)
+- Secure Microservices Reference — sample microservices demonstrating secure defaults (authentication, mTLS, rate limiting, logging). ( `secure-microservices-sample`)
 
-- IoT Analysis Toolkit — tools to analyze firmware, identify insecure configurations, and prototype mitigations. (e.g. `iot-security-tools`)
+- IoT Analysis Toolkit — tools to analyze firmware, identify insecure configurations, and prototype mitigations. ( `iot-security-tools`)
 
-- SDN Proof-of-Concepts — small demos showing SDN controller integrations, programmability, and service chaining. (e.g. `sdn-poc`)
+- SDN Proofs-of-Concept — small demos showing SDN controller integrations, programmability, and service chaining. ( `sdn-poc`)
 
 ---
 
@@ -58,7 +58,7 @@ Below are example project templates and the kinds of repositories I build or con
 - I document threat models, test cases, and expected telemetry for all security projects.
 - I prefer small, iterative PRs with clear test plans and CI checks.
 
-If you'd like to collaborate, open an issue or send a PR to any repo — I review and respond to collaboration requests.
+If you'd like to collaborate, open an issue, or send a PR to any repo, I review and respond to collaboration requests.
 
 ---
 
